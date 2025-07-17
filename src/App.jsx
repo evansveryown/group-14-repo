@@ -1,3 +1,4 @@
+
 import Footer from "./Footer"
 
 function App() {
@@ -6,5 +7,5 @@ function App() {
      <Footer/>
   )
 }
-
+    
 export default App
