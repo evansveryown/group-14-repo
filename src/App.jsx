@@ -1,8 +1,12 @@
-import Navbar from "./Navbar"
-function App() {
 
+import Navbar from "./Navbar"
+
+function App() {
+  
   return (
+
     <Navbar />
+
   )
 }
     
